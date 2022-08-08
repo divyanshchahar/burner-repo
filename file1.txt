@@ -9,3 +9,5 @@ second commit on branch1
 first commit on branch2
 
 third commit on branch 2
+
+first commit on b3
